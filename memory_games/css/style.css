@@ -59,6 +59,10 @@ nav ul {
     color: #fff;
 }
 
+nav ul a {
+    color: #fff;
+}
+
 nav li {
     display: inline-block;
     margin:0 20px;
@@ -69,11 +73,11 @@ main {
     margin: 35px auto;
 }
 
-.cards img {
+#game-board img {
     margin: 40px 8px;
 }
 
-footer {
+footer, footer p {
     font-family: "Raleway";
     text-transform: uppercase;
     padding: 0 20px;
