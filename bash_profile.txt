@@ -1,4 +1,4 @@
-sexport CLICOLOR=1
+export CLICOLOR=1
 export LSCOLORS=CxBxDxExGxegedabagaced
  
 parse_git_branch() {
